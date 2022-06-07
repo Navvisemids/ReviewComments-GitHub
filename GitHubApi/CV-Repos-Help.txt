@@ -1,0 +1,11 @@
+/* 
+Set of sample commands are provided below for selected Coreo View's Repos, change the RepoName appropriately for all the other repos
+NOTE: The PAT used in the example below is not valid, use your own PAT.
+/*
+
+ReviewComments-GitHub  OrgName:Navvisemids RepoName:CoreoView2.0.DataBase PAT:ghp_H7xC4SKrbbN148rOMhn2DEA2EsDKdfsddfsdzo1SPx21
+
+ReviewComments-GitHub  OrgName:Navvisemids RepoName:CoreoView2.0.Services PAT:ghp_H7xC4SKrbbN148rOMhn2DEA2EfdfsdsDKzo1SPx21
+
+ReviewComments-GitHub  OrgName:Navvisemids RepoName:coreoview2.0.web PAT:ghp_H7xC4SKrbbN148rOMhn2DEA2EssdfaDKzo1SPx21
+
