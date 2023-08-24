@@ -1,0 +1,15 @@
+# ReviewComments-GitHub
+C# Console App to read Pull Request review comments
+
+Build the application and run the below command.
+```
+ReviewComments-GitHub OrgName:Navvisemids RepoName:coreoview2.0.web PAT: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 Output:GitHub_ReviewComents_CV_UI.csv 
+ReviewComments-GitHub OrgName:Navvisemids RepoName:CoreoView2.0.Services PAT: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 Output:GitHub_ReviewComents_CV_API.csv 
+ReviewComments-GitHub OrgName:Navvisemids RepoName:CoreoView2.0.DataBase PAT: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 Output:GitHub_ReviewComents_CV_DB.csv 
+ReviewComments-GitHub OrgName:Navvisemids RepoName:CoreoView2.0.Wrapper PAT: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 Output:GitHub_ReviewComents_CV_Wrapper.csv 
+ReviewComments-GitHub OrgName:Navvisemids RepoName:CoreoView2.0.IntegrationServices PAT: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 Output:GitHub_ReviewComents_CV_ADT_Job.csv 
+ReviewComments-GitHub OrgName:Navvisemids RepoName:coreoview2.0.integrationDB PAT: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 Output:GitHub_ReviewComents_CV_ADT_DB.csv 
+ReviewComments-GitHub OrgName:Navvisemids RepoName:UEE.Web PAT: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 Output:GitHub_ReviewComents_UEE_UI.csv 
+ReviewComments-GitHub OrgName:Navvisemids RepoName:CoreoView2.0.TaskSchedular PAT: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 Output:GitHub_ReviewComents_CV_Job.csv 
+ReviewComments-GitHub OrgName:Navvisemids RepoName:UnifiedViewDB PAT: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 Output:GitHub_ReviewComents_UEE_DB.csv 
+```
